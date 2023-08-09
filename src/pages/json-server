@@ -1,0 +1,13 @@
+json-server
+
+-> npm init 
+-> npm i json-server
+
+
+
+crud
+
+    -> get
+    -> post
+    -> Delete
+    -> patch
